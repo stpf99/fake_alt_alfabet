@@ -20,7 +20,7 @@ replace_letter() {
         o) echo -n "s";;
         p) echo -n "h";;
         r) echo -n "e";;
-        s) echo -n "s";;
+        s) echo -n "o";;
         t) echo -n "m";;
         w) echo -n "z";;
         u) echo -n "a";;
